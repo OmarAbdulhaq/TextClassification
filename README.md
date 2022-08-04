@@ -16,4 +16,12 @@ In order to complete this project properly, I used "NLTK", "SKLearn", "re" and "
 * *pandas*: It was used to create a dataframe to represent folders, files, and texts. Some used tools require a dataframe to process texts such as PCA and "TfidfVectorizer".
 
 ## Requirements:
-To run the code, you have to have any type of compiler that could run an ".ipynb" file, I strongly suggest Anaconda's "Jupyter Notebook" or "Microsoft Visual Code".
+* To run the code, you have to have any type of compiler that could run an ".ipynb" file, I strongly suggest Anaconda's "Jupyter Notebook" or "Microsoft Visual Code"
+* For used tools, it's preferable if you use python version that's 3.7 or newer.
+* After installing python, for tools installation, go to cmd, and write:
+'''
+!pip install pandas
+!pip install nltk
+!pip install re
+!pip install sklearn
+'''
