@@ -25,3 +25,6 @@ In order to complete this project properly, I used "NLTK", "SKLearn", "re" and "
 !pip install re
 !pip install sklearn
 ```
+
+## Dataset:
+I've used Reuters dataset, which can be found [here](https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection)!
