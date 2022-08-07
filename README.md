@@ -3,7 +3,7 @@
 ![images](https://user-images.githubusercontent.com/68372273/182791238-77756982-8e5b-4f4d-bf2e-c1162c769bea.png)
 
 ## Target Audience:
-Programmers who have interest in Natural Language Processing, or trying to learn how to classify folder texts within existing libraries.
+Programmers who have an interest in Natural Language Processing, or trying to learn how to classify folder texts within existing libraries.
 
 ## Objective: 
 The aim of this project was to create a system that could read into files' texts, and classify texts based on the folder of the contained files. The project was a part of Natural Language Processing course.
