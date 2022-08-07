@@ -20,10 +20,11 @@ In order to complete this project properly, I used "NLTK", "SKLearn", "re" and "
 * For used tools, it's preferable if you use python version that's 3.7 or newer.
 * After installing python, for tools installation, go to cmd, and write:
 ```
-!pip install pandas
-!pip install nltk
-!pip install re
-!pip install sklearn
+pip install pandas
+pip install nltk
+pip install re
+pip install sklearn
+
 ```
 
 ## Dataset:
